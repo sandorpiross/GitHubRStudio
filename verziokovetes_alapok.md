@@ -18,4 +18,7 @@ A **push** a repository központi szerveren tárolt verziójának frissítését
 
 A központi szerverről mi is frissíthetjük a repónkat az aktuális verzióra, ez a **pull**.
 
-![Verziókövetés alapok. Tárold a fájlokat egy repositoryban, vezesd a változtatásokat (commit), töltsd fel másoknak (push), frissítsd a sajátod (pull).](./Figures/basic_workflow.png)
+![](./Figures/basic_workflow.png)
+*Verziókövetés alapok. Tárold a fájlokat egy repositoryban, vezesd a változtatásokat (commit), töltsd fel másoknak (push), frissítsd a sajátod (pull).*
+
+Ezek voltak az alapok, a részletekkel az anyag további részében ismerkedünk meg.
