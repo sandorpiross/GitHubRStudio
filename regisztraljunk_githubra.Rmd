@@ -19,4 +19,5 @@ A továbbiakban a GitHub működését és használatát mutatjuk be, de magán 
 Regisztráció és bejelentkezés után az alábbi képernyő fogad minket:
 ![](./Figures/github_settings.PNG)
 
-A jobb felső sarokban a felhasználói profilunk ikonjára kattintva érhetjük el a beállításokat. Erre még az RStudioval való összekapcsolás során szükségünk lesz!
+A jobb felső sarokban a felhasználói profilunk ikonjára kattintva érhetjük el a beállításokat. A beállítások menüben fontos információkat találunk a gépünkön futó Git és a GitHubunk összekapcsolásához (lásd később)!
+A beállítások alatt információkat adhatunk magunkról a profilunkhoz. Ezt érdemes megtenni, ha publikus repoink is vannak.
