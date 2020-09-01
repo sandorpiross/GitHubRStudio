@@ -21,4 +21,6 @@ A központi szerverről mi is frissíthetjük a repónkat az aktuális verzióra
 ![](./Figures/basic_workflow.png)
 *Verziókövetés alapok. Tárold a fájlokat egy repositoryban, vezesd a változtatásokat (commit), töltsd fel másoknak (push), frissítsd a sajátod (pull).*
 
+A Git működését úgyis elképzelhetjük, mintha Dropboxot/OneDrive-ot/Google drive-ot használnánk annyi különbséggel, hogy itt a felhőbe való feltöltést mi indítjuk kézzel és fejlettebb eszközeink vannak a verziók kezelésére és a közös munkára.
+
 Ezek voltak az alapok, a részletekkel az anyag további részében ismerkedünk meg.
